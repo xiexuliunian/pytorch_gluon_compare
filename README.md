@@ -1,0 +1,2 @@
+# pytorch_gluon_compare
+这是一份pytorch和mxnet gluon的异同的代码库
